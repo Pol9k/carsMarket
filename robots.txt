@@ -1,0 +1,7 @@
+user-agent:Googlebot
+Allow:*.html
+Allow:*.css
+Allow:/*.png*
+Allow:/*.jpg*
+Allow:*.js
+Host:http://www.carsmarket.com.ua
