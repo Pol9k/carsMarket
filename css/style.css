@@ -1698,6 +1698,9 @@ p {
   .about_us-content--parag {
     line-height: 1.1;
   }
+  .start__page-text{
+    width: 100%;
+  }
 }
 @media only screen and (max-width: 767px) {
 
